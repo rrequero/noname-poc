@@ -1,0 +1,1 @@
+{"version":3,"file":"poc.router.js","sourceRoot":"","sources":["../src/poc.router.ts"],"names":[],"mappings":";;;;;;;;;;;AAAA,mCAAqC;AAKrC,IAAa,SAAS,GAAtB;IAGI,EAAE,CAAC,GAAG;QACF,GAAG,CAAC,IAAI,GAAG,SAAS,CAAC;IACzB,CAAC;CACJ,CAAA;AAHG;IADC,YAAG,CAAC,GAAG,CAAC;;;;mCAGR;AALQ,SAAS;IAHrB,eAAM,CAAC;QACJ,IAAI,EAAE,OAAO;KAChB,CAAC;GACW,SAAS,CAMrB;AANY,8BAAS"}
